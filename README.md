@@ -53,7 +53,6 @@ Others:
 •	Postman for API testing
 
 Preview:
-![Image](https://github.com/user-attachments/assets/0df19760-2719-46ef-973b-228134a82427)
 Login: Preview
 ![Image](https://github.com/user-attachments/assets/3fd74104-8bd5-48ae-9f6e-bed9fd944109)
 Admin Preview: 
